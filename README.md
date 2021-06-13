@@ -1,2 +1,0 @@
-# Sezam-whebook-finder
-Sezam
